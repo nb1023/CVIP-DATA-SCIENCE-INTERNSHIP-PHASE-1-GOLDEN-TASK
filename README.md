@@ -4,7 +4,9 @@ The Diabetes Prediction System is an application designed to predict the likelih
 
 # Features
 1- User-friendly interface built with Streamlit for a seamless user experience.
+
 2- Data preprocessing utilizing StandardScaler for standardized input data.
+
 3- Support Vector Machine (SVM) algorithm for diabetes prediction.
 
 Run the application file:
